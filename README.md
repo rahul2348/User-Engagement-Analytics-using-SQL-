@@ -1,4 +1,4 @@
-# User-Engagement-Analytics-using-SQL-
+
 # User_Engagement_Analysis
 ## Overview
 This project involves SQL data analysis aimed at understanding user engagement and behavior on a platform. The queries provided analyze various aspects such as user activity, contest outcomes, hashtag usage, and user interaction patterns.
